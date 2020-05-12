@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace prueba_12
 {
     public class Class1
-    {
-
+    
     }
 }
